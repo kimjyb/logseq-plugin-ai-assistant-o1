@@ -31,7 +31,7 @@ const settings: SettingSchemaDesc[] = [
     key: 'model',
     type: 'string',
     title: 'Model',
-    description: 'Choose the OpenAI model (e.g., "gpt-3.5-turbo").',
+    description: 'Choose the OpenAI model (e.g., "gpt-4o-mini").',
     default: 'gpt-4o-mini',
   },
   {
@@ -39,7 +39,7 @@ const settings: SettingSchemaDesc[] = [
     type: 'string',
     title: 'Tag',
     description: 'Add specific tags to AI-generated content',
-    default: '[[🤖]]'
+    default: '[[AI-ASSISTANT]]'
   },
   {
     key: 'customPrompts',
