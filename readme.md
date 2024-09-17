@@ -24,7 +24,7 @@ enabling you to achieve more efficient and creative workflows within Logseq.
 ### Option 2: manually load
 
 - turn on Logseq developer mode
-- [download the prebuilt package here](https://github.com/ahonn/logseq-plugin-ai-assistant/releases)
+- [download the prebuilt package here](https://github.com/kimjyb/logseq-plugin-ai-assistant-o1/releases)
 - unzip the zip file and load from Logseq plugins page
 
 ## Configuration
@@ -49,7 +49,7 @@ The plugin comes with several built-in prompts to enhance your text editing expe
 - **Explain This**: Provide a clear explanation for the text or code snippet.
 - **Generate Ideas**: Generate creative ideas related to the selected topic.
 
-See all built-in prompts [here](https://github.com/ahonn/logseq-plugin-ai-assistant/tree/master/src/prompts)
+See all built-in prompts [here](https://github.com/kimjyb/logseq-plugin-ai-assistant-o1/tree/master/src/prompts)
 
 ## How to Use a Custom Prompt
 

@@ -67,7 +67,7 @@ importers:
         specifier: 5.0.0
         version: 5.0.0
       eslint:
-        specifier: 8.36.0
+        specifier: ^8.36.0
         version: 8.36.0
       eslint-plugin-react:
         specifier: 7.32.2

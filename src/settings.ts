@@ -32,7 +32,7 @@ const settings: SettingSchemaDesc[] = [
     type: 'string',
     title: 'Model',
     description: 'Choose the OpenAI model (e.g., "gpt-3.5-turbo").',
-    default: 'gpt-3.5-turbo',
+    default: 'gpt-4o-mini',
   },
   {
     key: 'tag',
